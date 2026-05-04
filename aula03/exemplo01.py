@@ -1,4 +1,4 @@
-#Introdução
+#Introdução ao git
 
-nome = 'Anna'
+nome = input('Informe o nome:')
 print(nome)
